@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoolWeather</string>
+    <string name="def_temp">14 degrees C</string>
+    <string name="city_text">Localitate</string>
+    <string name="button_text">Adauga</string>
+    <string name="error">Eroare</string>
+
+</resources>
